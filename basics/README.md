@@ -9,3 +9,5 @@
 # 8-firstdelete: delete "betty"
 # 9-firstdirdeletion: delete "my_first_directory"
 # 10-back: changes the working directory to the previous one.
+#
+# 12-file_type: prints the file type of "/tmp/iamafile"
