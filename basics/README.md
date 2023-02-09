@@ -4,3 +4,4 @@
 # 3-listfiles: list all files in long format
 # 4-listmorefiles: list all files including hidden (starting with .)
 # 5-listfilesdigitonly: displays all files in long format including hidden (starting with .)
+# 6-firstdirectory: creates a directory named "my_first_directory" in the "/tmp/" directory
