@@ -11,3 +11,4 @@
 # 10-back: changes the working directory to the previous one.
 #
 # 12-file_type: prints the file type of "/tmp/iamafile"
+# 13-symbolic_link: creates symlink (__ls__) to /bin/ls
