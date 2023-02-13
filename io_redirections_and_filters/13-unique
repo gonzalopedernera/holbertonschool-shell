@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | sort | uniq | fmt 1
+cat <"*.txt"> | sort | uniq
