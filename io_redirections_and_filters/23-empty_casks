@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d: -f-9 | find ./ -empty -ls
+find ./ -type f -empty | ls -x1aR   
