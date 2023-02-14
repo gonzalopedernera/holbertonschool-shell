@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR | cut -d: -f9-9
+-find . -empty | cut -d: -f9-9
