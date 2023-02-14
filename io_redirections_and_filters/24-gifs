@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1aRSX | find -type f -empty -printf "%f\n" -name '*.gif*' -exec basename {} .gif \
+ls -1aRSX | find -type f -empty -printf "%f\n" -name '*.gif*'
